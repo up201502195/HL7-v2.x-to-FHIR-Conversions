@@ -1,3 +1,5 @@
+<!-- Convert HL7-v2.x to FHIR Patient - Example 2 -->
+
 <channel version="3.6.0">
   <id>42e730bb-0721-435e-8dcf-d25d6d5d1dc6</id>
   <nextMetaDataId>2</nextMetaDataId>
