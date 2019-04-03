@@ -1,3 +1,5 @@
+<!-- Convert HL7 v2.x to FHIR Patient -->
+
 <transformer version="3.6.0">
   <elements>
     <com.mirth.connect.model.IteratorStep>
